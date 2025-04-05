@@ -13,3 +13,8 @@ enet or yokojito or raw for netcode.
 https://docs.google.com/document/d/1mhUuG0jsBPZvGCispnBLEuKR54J6O-TIibpvoD8nZAg/edit
 
 generating mobules to google docs since bard/gemini exports there but can also spaam copilot with prompts to small code
+
+
+android double assembler: for android 2-4.4 use ant or eclipse tutorial
+
+for ios same yupe of appoach compile on old compiler for iphone 4
